@@ -3,7 +3,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:to_do/pages/home_page.dart';
 
 void main() async {
-  // Init tje hive
+  // Init the hive
   await Hive.initFlutter();
 
   // Open a box
